@@ -1,12 +1,8 @@
-
 .heading h1{
     text-align: right;
     border-style: dotted;
     margin-left: 1300px;
-    padding-right: 15px;
-    
-    
-    
+    padding-right: 15px;        
 }
 
 .meal{
@@ -15,9 +11,7 @@
     width: 80%;
     margin: 50px 150px;
     border-radius: 10%;
-
 }
-
 
 .meal h1{
     color: aliceblue;
