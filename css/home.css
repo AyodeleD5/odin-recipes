@@ -1,8 +1,9 @@
-.heading h1{
+.header h1{
     text-align: right;
     border-style: dotted;
     margin-left: 1300px;
-    padding-right: 15px;        
+    padding-right: 15px;   
+    font-weight: 300;     
 }
 
 .meal{
@@ -11,6 +12,7 @@
     width: 80%;
     margin: 50px 150px;
     border-radius: 10%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .meal h1{
@@ -21,10 +23,12 @@
     padding: 12px;
     background-color: black;
     text-align: center;
+    font-size: 15px;
 }
 
 .meal ul{
     list-style: none;
+    font-size: 10px;
 }
 
 a{
@@ -35,3 +39,14 @@ a{
 a:hover{
     color: red;
 }
+
+.footer{
+    color: #555;
+    margin: 150px;
+
+    background-color: rgba(0,0,255,0.2);
+}
+
+/*ul{
+    display: flex;
+}*/
